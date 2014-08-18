@@ -30,8 +30,8 @@ nova boot --image $IMAGE --flavor 1 --security-groups default \
 
 
 ## GRAB IPs
-
-
+# TO BO WORKED ON
 
 ## VERIFY PING
 ip netns exec $INSIDE_NS ssh -oStrictHostKeyChecking=no
+# TO BE WORKED ON
